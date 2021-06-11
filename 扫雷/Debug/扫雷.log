@@ -1,0 +1,23 @@
+﻿  源.cpp
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(10,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(10,5): error C2146: 语法错误: 缺少“;”(在标识符“boom”的前面)
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(23,1): error C2144: 语法错误:“int”的前面应有“;”
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(23,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(32,4): error C2065: “boom”: 未声明的标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(54,7): error C2065: “boom”: 未声明的标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(56,9): error C2065: “boom”: 未声明的标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(39,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(58,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(84,1): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(84,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(87,2): error C3861: “color”: 找不到标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(89,2): error C3861: “color”: 找不到标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(91,2): error C3861: “color”: 找不到标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(93,2): error C3861: “color”: 找不到标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(95,2): error C3861: “color”: 找不到标识符
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(98,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(106,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(166,27): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(166,27): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(193,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\邓杰婷\source\repos\扫雷\源.cpp(269): fatal error C1075: “{”: 未找到匹配令牌
